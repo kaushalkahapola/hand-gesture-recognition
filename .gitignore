@@ -1,2 +1,3 @@
 hand-gesture-api/venv/
 hand-gesture-api/saved_model/
+hand-gesture-api/__pycache__/
